@@ -7,12 +7,18 @@ PC
 Anaconda - Python 3.7
 
 ## Algorithm: 
-### Step 1: Define a function named as circulate
-### Step 2: Enter the formula to calculate
-### Step 3: Get the value from the user for the number of rotation
-### Step 4: Using the slicing concept rotate the list
-### Step 5: print the values after circulating
-### Step 6: End the program
+### Step 1:
+Define a function named as circulate
+### Step 2:
+Enter the formula to calculate
+### Step 3:
+Get the value from the user for the number of rotation
+### Step 4:
+Using the slicing concept rotate the list
+### Step 5:
+Print the values after circulating
+### Step 6:
+End the program
 ## Program:
 ```python
 #Program to circulate N values.
